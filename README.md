@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Anyanwu Chimebuka Emmanuel**
 
-## 🚀 Software Engineer — Backend Focused
+## 🚀 Software Engineer — Backend and Full Stack
 
 I’m a backend engineer passionate about building **scalable**, **secure**, and **high-performance** server-side systems. I specialize in designing APIs, developing microservices, and architecting backend systems that power real-world applications.
 
@@ -9,9 +9,9 @@ I’m a backend engineer passionate about building **scalable**, **secure**, and
 ## 🔧 **What I Do**
 
 - **Backend Development:** Building RESTful and event-driven APIs using Node.js, NestJS, and Express.js.  
-- **System Architecture:** Designing microservices architectures with messaging systems like Kafka/RabbitMQ.  
-- **Database Engineering:** Modeling and optimizing queries for PostgreSQL and MongoDB.  
-- **Cloud & DevOps:** Dockerizing applications and deploying scalable systems to AWS.  
+- **System Architecture:** Designing microservices architectures with messaging brokers like Kafka/RabbitMQ.  
+- **Database Engineering:** Modeling and optimizing queries for PostgreSQL, MongoDB, Redis.  
+- **Cloud & DevOps:** containerizing applications and deploying scalable systems to AWS,  with grasp of Github actions for CI/CD pipelines 
 - **Authentication & Security:** Implementing OAuth2, JWT, RBAC, and secure authentication systems.  
 
 ---
@@ -33,34 +33,34 @@ I’m a backend engineer passionate about building **scalable**, **secure**, and
 
 - Building **scalable backend systems** with microservices architecture.  
 - Learning **cloud-native patterns**, **event-driven architecture**, and **software design principles**.  
-- Open to **collaboration** on backend projects, APIs, or developer tools.
+- Open to **collaboration** on backend/Full stack projects, APIs, or developer tools.
 
 ---
 
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamayomi&show_icons=true&theme=radical" alt="Ayomide's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chimebukaniani&show_icons=true&theme=radical" alt="chimebuka's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamayomi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimebukanian&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamayomi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chimebukanian&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Iamayomi&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chimebukanian&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🔗 **Connect With Me**
 
-- **LinkedIn:** [Anyanwu Chimebuka](https://www.linkedin.com/in/ayomide-sherif-72b035243)  
-- **Email:** [ayomidesherif2019@gmail.com](mailto:ayomidesherif2019@gmail.com)  
-- **GitHub:** [Iamayomi](https://github.com/Iamayomi)  
-- **Twitter:** [@iamayom93173603](https://x.com/iamayom93173603)
+- **LinkedIn:** [Anyanwu Chimebuka](https://www.linkedin.com/in/chimebuka-anyanwu)  
+- **Email:** [chimebukaanyanwu@gmail.com](mailto:chimebukaanyanwu@gmail.com)  
+- **GitHub:** [Chimebukanian](https://github.com/chimebukanian)  
+- **Twitter:** [chimebuka](https://x.com/Hon_Ebukanian)
 
 <p align="left">
-  <a href="https://x.com/iamayom93173603" target="_blank" rel="noreferrer"><img
-  src="https://img.shields.io/twitter/follow/iamayom93173603?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000" /></a>
-  <a href="https://www.github.com/Iamayomi" target="_blank" rel="noreferrer"><img
-  src="https://img.shields.io/github/followers/Iamayomi?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+  <a href="https://x.com/Hon_Ebukanian" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/twitter/follow/Hon_Ebukanian?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+  <a href="https://www.github.com/chimebukanian" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/github/followers/chimebukanian?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 </p>
