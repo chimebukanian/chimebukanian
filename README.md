@@ -8,7 +8,7 @@ I’m a backend engineer passionate about building **scalable**, **secure**, and
 
 ## 🔧 **What I Do**
 
-- **Backend Development:** Building RESTful and event-driven APIs using Node.js, NestJS, and Express.js.  
+- **Backend Development:** Building RESTful and event-driven APIs using Node.js/Express.js, Django, Spring boot, .Net, NestJS.  
 - **System Architecture:** Designing microservices architectures with messaging brokers like Kafka/RabbitMQ.  
 - **Database Engineering:** Modeling and optimizing queries for PostgreSQL, MongoDB, Redis.  
 - **Cloud & DevOps:** containerizing applications and deploying scalable systems to AWS,  with grasp of Github actions for CI/CD pipelines 
