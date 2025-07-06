@@ -32,7 +32,7 @@ I’m a backend engineer passionate about building **scalable**, **secure**, and
 ## 📈 **Currently**
 
 - Building **scalable backend systems** with microservices architecture.  
-- Learning **cloud-native patterns**, **event-driven architecture**, and **software design principles**.  
+-  **cloud-native patterns**, **event-driven architecture**, and **software design principles**.  
 - Open to **collaboration** on backend/Full stack projects, APIs, or developer tools.
 
 ---
@@ -40,7 +40,7 @@ I’m a backend engineer passionate about building **scalable**, **secure**, and
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chimebukaniani&show_icons=true&theme=radical" alt="chimebuka's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chimebukanian&show_icons=true&theme=radical" alt="chimebuka's GitHub stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimebukanian&layout=compact&theme=radical" alt="Top Languages" />
   <br />
