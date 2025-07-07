@@ -26,6 +26,11 @@ I’m a backend engineer passionate about building **scalable**, **secure**, and
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Django](https://img.shields.io/badge/Django-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Spring-boot](https://img.shields.io/badge/Spring-boot-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+
+
 
 ---
 
