@@ -2,12 +2,12 @@
 
 ## 🚀 Software Engineer — Backend and Full Stack
 
-I’m a backend engineer passionate about building **scalable**, **secure**, and **high-performance** server-side systems. I specialize in designing APIs, developing microservices, and architecting backend systems that power real-world applications.
+I’m a Full stack developer passionate about building **scalable**, **secure**, and **high-performance** server-side systems. I specialize in designing APIs, developing microservices, and architecting backend systems that power real-world applications.
 
 ---
 
 ## 🔧 **What I Do**
-
+- **Frontend Development:** Building intuitive and functional user interfaces using React, Next, Tailwind
 - **Backend Development:** Building RESTful and event-driven APIs using Node.js/Express.js, Django, Spring boot, .Net, NestJS.  
 - **System Architecture:** Designing microservices architectures with messaging brokers like Kafka/RabbitMQ.  
 - **Database Engineering:** Modeling and optimizing queries for PostgreSQL, MongoDB, Redis.  
