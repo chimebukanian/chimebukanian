@@ -1,6 +1,7 @@
 # 👋 Hello, I'm **Anyanwu Chimebuka Emmanuel**
 
 ## 🚀 Software Engineer — Backend and Full Stack
+- **Chat agent:** [Anyanwu Chimebuka](https://chat-ebukai.onrender.com/)
 
 I’m a Full stack developer passionate about building **scalable**, **secure**, and **high-performance** server-side systems. I specialize in designing APIs, developing microservices, and architecting backend systems that power real-world applications.
 
